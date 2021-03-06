@@ -1,12 +1,12 @@
 Bank bank
-bank bank?
-hvem der
-hvem der?
+Bank bank?
+Hvem der
+Hvem der?
 Klamma
 Klamma hvem?
 Du har
 Klamma
-Jonathan, du burde ha wrappa’n
+Jonathan, du burde ha wrappa'n
 Klamma gjør ganske vondt
 Bank bank
 Hvem der?

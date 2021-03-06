@@ -1,4 +1,4 @@
-Sigrid Festøy, Hedda Mathilde Langvik, Christian Ziegenhahn Jensen
-Julie Skutle Meyer, Anna Roarsen, Asgeir Mehl Santi
-Steffen Trog, Jonathan Sileshe Johanessen
-Evgenia Kazakova, Marie Hovland, Hanna-Kai Barstad Golberg, Royce Lu, Emilie Skirdal Frøhaug
+Christian Ziegenhahn Jensen, Hedda Mathilde Langvik, Sigrid Festøy
+Asgeir Mehl Santi, Anna Roarsen, Julie Skutle Meyer
+Jonathan Sileshe Johanessen, Steffen Trog
+Emilie Skirdal Frøhaug, Royce Lu, Hanna-Kai Barstad Golberg, Marie Hovland, Evgenia Kazakova
